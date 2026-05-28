@@ -1,7 +1,12 @@
 {
   "versiones": [
-    "Petals of Envy: 1.0",
-    "Petals of Envy: 1.1",
-    "Petals of Envy: 1.2"
+    {
+      "nombre": "Petals of Envy: 1.0",
+      "url_descarga": "https://enlace_directo_a_tu_juego_v1.0.zip"
+    },
+    {
+      "nombre": "Petals of Envy: 1.1",
+      "url_descarga": "https://enlace_directo_a_tu_juego_v1.1.zip"
+    }
   ]
 }
