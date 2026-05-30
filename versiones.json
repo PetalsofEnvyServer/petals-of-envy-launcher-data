@@ -1,8 +1,4 @@
 {
-  "versiones": [
-    {
-      "nombre": "Petals of Envy: 1.0",
-      "url_descarga": "https://github.com/PetalsofEnvyServer/petals-of-envy-launcher-data/releases/download/v1.0/petals-of-envy-1.0.zip"
-    }
-  ]
+  "version": "1.0",
+  "url_zip": "https://github.com/PetalsofEnvyServer/petals-of-envy-launcher-data/releases/download/v1.0/petals-of-envy-1.0.zip"
 }
